@@ -1,2 +1,2 @@
-# Inventory-Management-System-Spring-Boot-
+# Inventory-Management-System-Spring-Boot
 A comprehensive Inventory Management System enables efficient stock tracking, alerting the admin when inventory exceeds predefined thresholds. If stocks are low, users can request replenishment from vendors, ensuring seamless supply chain management. The system facilitates purchasing required products and managing existing stock levels effectively. Technologies Used are java 17, Spring Boot 2.7.5, MySQL, GitHub.
